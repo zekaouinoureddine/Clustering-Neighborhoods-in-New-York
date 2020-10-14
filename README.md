@@ -23,4 +23,4 @@ In the [jupyter notebook file](https://github.com/zekaouinoureddine/Clustering-N
 </font>
 </div>
 
-📌 Please, you will not be able the maps generated in Jupyter Notebook specially in github ecosystem. So, you can either download the Jupyter Notebook file and try it yourself(**PLEASE DO NOT USE MY Personal Foursquaraddress, PLEASE USE YOUR OWN**) or you take a look on the tree images of the unseen maps, I downloaded the for you. 
+📌 Please, you will not be able the maps generated in Jupyter Notebook specially in github ecosystem. So, you can either download the Jupyter Notebook file and try it yourself(**PLEASE DO NOT USE MY Personal Foursquar address, PLEASE USE YOUR OWN**) or you take a look on the tree images of the unseen maps, I downloaded the for you. 
