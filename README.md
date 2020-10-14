@@ -3,7 +3,7 @@ Segmenting and Clustering Neighborhoods in New York City
 
 ## Overview
 
-In this lab, we will learn how to convert addresses into their equivalent latitude and longitude values. Also, we will use the Foursquare API to explore neighborhoods in New York City. then we will use the **explore** function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. we will use the **_k-means_** clustering algorithm to complete this task. Finally, we will use the **Folium** library to visualize the neighborhoods in New York City and their emerging clusters.
+In this lab, we will learn how to convert addresses into their equivalent latitude and longitude values. Also, we will use the **Foursquare API** to explore neighborhoods in New York City. then we will use the **explore** function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. we will use the **_k-means_** clustering algorithm to complete this task. Finally, we will use the **Folium** library to visualize the neighborhoods in New York City and their emerging clusters.
 
 In the [jupyter notebook file](https://github.com/zekaouinoureddine/Clustering-Neighborhoods-in-New-York/blob/main/Clustering%20Neighborhoods%20in%20New%20York.ipynb) we will follow the steps bellow
 
